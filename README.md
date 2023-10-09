@@ -6,3 +6,8 @@ Working on something lit...
 
 
 Watch tutorial on Youtube
+
+
+## Local Development
+
+1. Open Index.html in yout browser.
